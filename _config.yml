@@ -13,7 +13,7 @@ permalink: /:title/
 
 # Authors
 authors:
-    Bhushan:
+  Bhushan:
     name: Bhushan
     display_name: bhushan    
     avatar: 'assets/images/avatar.png'
