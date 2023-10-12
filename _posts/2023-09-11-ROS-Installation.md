@@ -4,6 +4,8 @@ title:  "Installing ROS2 in Docker GUI using Xhost"
 author: Bhushan
 categories: [ ROS, tutorial, Installation ]
 image: "https://i0.wp.com/roboticseabass.com/wp-content/uploads/2023/07/docker_ros2_banner.png?fit=1122%2C519&ssl=1&auto=format&fit=crop&w=750&q=80"
+featured: true
+hidden: true
 ---
 
 Hello, guys! Let's say you want to learn ROS. You start by searching online and come to the conclusion that you need a dual boot PC or laptop with Ubuntu installed to run ROS1 or ROS2. But, there's always that "but". Anyway! I have some ways that you can install ROS in less than 20-30 minutes (depending on your internet connection).
