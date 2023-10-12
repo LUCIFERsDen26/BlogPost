@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Installing ROS2 in Docker GUI using Xhost"
-author: sal
+author: Bhushan Shelar
 categories: [ ROS, tutorial, Installation ]
 image: "https://i0.wp.com/roboticseabass.com/wp-content/uploads/2023/07/docker_ros2_banner.png?fit=1122%2C519&ssl=1&auto=format&fit=crop&w=750&q=80"
 ---
