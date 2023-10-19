@@ -3,7 +3,7 @@ layout: post
 title:  "Running Turtlesim in Docker with ROS2 (Part 1)"
 author: Bhushan
 categories: [ ROS,tutorial]
-image: ""
+image: "https://raw.githubusercontent.com/LUCIFERsDen26/BlogPosts/master/assets/images/Octopus_moby_800.png"
 featured: false
 hidden: flase
 comments: false
