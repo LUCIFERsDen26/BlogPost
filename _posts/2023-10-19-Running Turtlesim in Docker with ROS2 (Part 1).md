@@ -1,4 +1,13 @@
-# Running Turtlesim in Docker with ROS2 (Part 1)
+---
+layout: post
+title:  "Running Turtlesim in Docker with ROS2 (Part 1)"
+author: Bhushan
+categories: [ ROS,tutorial]
+image: ""
+featured: false
+hidden: flase
+comments: false
+---
 
 Let's dive into running Turtlesim using ROS2 within a Docker container. We'll assume that you already have Docker installed and have successfully run a "Hello, World!" container. If you haven't, go ahead and give it a try - nothing's holding you back!
 
