@@ -5,7 +5,7 @@ description: "Where Bits Meet Bots."
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: /BlogPosts
-google_analytics: ''
+google_analytics: 'G-J1ZBNBMNTE'
 disqus: 'demowebsite'
 mailchimp-list: ''
 include: ["_pages"]
